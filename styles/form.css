@@ -1,0 +1,15 @@
+.input-field {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.input-field label {
+  margin: 10px;
+}
+
+textarea {
+  display: block;
+}
